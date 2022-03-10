@@ -1,3 +1,15 @@
+h1{
+  color: rgb(7, 55, 100);
+}
+.col-sm-3{
+  border-top: gainsboro 1px solid;
+  border-right: gainsboro 1px solid;
+  padding: 20px;
+}
+h3:hover{
+  text-decoration: underline;
+  color: slateblue;
+}
 p{
   display: none;
 }
